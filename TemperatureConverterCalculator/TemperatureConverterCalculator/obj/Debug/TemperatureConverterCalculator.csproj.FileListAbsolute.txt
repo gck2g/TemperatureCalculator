@@ -1,0 +1,9 @@
+c:\users\chris\documents\visual studio 2013\Projects\TemperatureConverterCalculator\TemperatureConverterCalculator\bin\Debug\TemperatureConverterCalculator.exe.config
+c:\users\chris\documents\visual studio 2013\Projects\TemperatureConverterCalculator\TemperatureConverterCalculator\bin\Debug\TemperatureConverterCalculator.exe
+c:\users\chris\documents\visual studio 2013\Projects\TemperatureConverterCalculator\TemperatureConverterCalculator\bin\Debug\TemperatureConverterCalculator.pdb
+c:\users\chris\documents\visual studio 2013\Projects\TemperatureConverterCalculator\TemperatureConverterCalculator\obj\Debug\TemperatureConverterCalculator.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2013\Projects\TemperatureConverterCalculator\TemperatureConverterCalculator\obj\Debug\TemperatureConverterCalculator.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2013\Projects\TemperatureConverterCalculator\TemperatureConverterCalculator\obj\Debug\TemperatureConverterCalculator.csproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2013\Projects\TemperatureConverterCalculator\TemperatureConverterCalculator\obj\Debug\TemperatureConverterCalculator.exe
+c:\users\chris\documents\visual studio 2013\Projects\TemperatureConverterCalculator\TemperatureConverterCalculator\obj\Debug\TemperatureConverterCalculator.pdb
+c:\users\chris\documents\visual studio 2013\Projects\TemperatureConverterCalculator\TemperatureConverterCalculator\obj\Debug\TemperatureConverterCalculator.TempCalculator.resources
